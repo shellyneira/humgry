@@ -1,5 +1,5 @@
 package com.humgry.humgrycustomer.restaurant.domain.api.model.valueObjects;
 
-enum RestaurantOrderState {
+public enum RestaurantOrderState {
     CREATED, PREPARED, CANCELLED
 }
