@@ -1,5 +1,5 @@
 package com.humgry.humgrycustomer.restaurant.domain.api.model.valueObjects;
 
-enum RestaurantState {
+public enum RestaurantState {
     OPEN, CLOSED
 }
